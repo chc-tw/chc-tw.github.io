@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on CHC Website</title>
-    <link>https://chc-tw.github.io/publications/</link>
-    <description>Recent content in Publications on CHC Website</description>
+    <title>Animal Behavior on CHC Website</title>
+    <link>https://chc-tw.github.io/tags/animal-behavior/</link>
+    <description>Recent content in Animal Behavior on CHC Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://chc-tw.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chc-tw.github.io/tags/animal-behavior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neural network for real-time estimation of force and torque using video data</title>
       <link>https://chc-tw.github.io/publications/tnstalk/</link>
